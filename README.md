@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/73k4a496r4jnr5en?svg=true)](https://ci.appveyor.com/project/bas27/ahj-collapse-9-1)[![collapse](https://github.com/bas27/ahj-collapse-9.1/actions/workflows/web.yml/badge.svg)](https://github.com/bas27/ahj-collapse-9.1/actions/workflows/web.yml)
 # Домашнее задание к занятию "9. Анимации и CSS"
 
 Правила сдачи задания:
@@ -12,7 +13,7 @@
 
 ---
 
-### Collapse 
+### Collapse [![Build status](https://ci.appveyor.com/api/projects/status/73k4a496r4jnr5en?svg=true)](https://ci.appveyor.com/project/bas27/ahj-collapse-9-1)
 
 #### Легенда
 
